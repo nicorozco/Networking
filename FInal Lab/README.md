@@ -4,7 +4,7 @@ Authors:
  Server Implementation: Javier Mojica Hernandez
 
  ## Description:
-A python implementation of a chat server, allowing for 2 clients in indepement terminal to communicate
+A Python implementation of a chat server that allows two clients, running in independent terminals, to communicate with each other
 
 ## Commands 
 - /register
