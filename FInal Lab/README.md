@@ -1,7 +1,7 @@
 # Chat Server 
 Authors:
- Client: Nicolas Orozco 
- Server Implementation: Javier Mojica Hernandez
+ * Client Implementation: Nicolas Orozco 
+ * Server Implementation: Javier Mojica Hernandez
 
  ## Description:
 A Python implementation of a chat server that allows two clients, running in independent terminals, to communicate with each other
