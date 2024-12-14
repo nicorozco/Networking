@@ -10,8 +10,11 @@ A Python implementation of a chat server that allows two clients, running in ind
 - /register
   * Registers the client by sending a message to the server, which stores the client's information to enable retrieval of contact details by other clients
 - /bridge
+   * Description 
 - /chat
+  * Description
 - /quit
+  * Description
 
 
  ## Client:
