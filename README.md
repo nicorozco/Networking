@@ -1,4 +1,4 @@
-# CSE150 Networking
+# CSE150 Introduction to Computer Networks
 
 This repository contains the networking labs and assignments completed for the CSE150 Networking course. It serves as a showcase of my work and progress in the class.
 
