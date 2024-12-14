@@ -5,10 +5,10 @@ This repository contains the networking labs and assignments completed for the C
 > **Note:** Please do not copy the code for use in future labs. This repository is intended to demonstrate the work done during the course.
 
 ## Table of Contents
-  * Lab 1
-  * Lab 2
-  * Lab 3
+  * [Lab 1](https://github.com/nicorozco/Networking/tree/main/Lab1)
+  * [Lab 2](https://github.com/nicorozco/Networking/tree/main/Lab2)
+  * [Lab 3](https://github.com/nicorozco/Networking/tree/main/Lab%203)
   * Lab 4
-  * Lab 5
-  * Lab 5
-  * Final Project
+  * [Lab 5](https://github.com/nicorozco/Networking/tree/main/Lab5)
+  * Lab 6
+  * [Final Project](https://github.com/nicorozco/Networking/tree/main/FInal%20Lab)
